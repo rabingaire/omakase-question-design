@@ -4,3 +4,9 @@
 	margin-right: auto;
 	max-width: initial;
 }
+
+.question {
+	background-color: #ff6e4d;
+	border-color: #ff6e4d;
+	color: #ffffff;
+}
