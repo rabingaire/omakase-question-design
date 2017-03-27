@@ -10,3 +10,17 @@
 	border-color: #ff6e4d;
 	color: #ffffff;
 }
+
+.user-title {
+	padding: 0px;
+	margin: 0px;
+}
+
+.user-title p {
+	padding: 0px;
+	margin: 0px;
+}
+
+.user-picture {
+	margin-top: 20px;
+}
